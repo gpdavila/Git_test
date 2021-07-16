@@ -4,6 +4,7 @@ def new_print():
 
 def main():
     new_print()
+    print("Last Test")
 
 
 if __name__ == "__main__":
